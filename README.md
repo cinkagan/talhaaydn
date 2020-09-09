@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems Engineering at Kocaeli University.
 - 💼 &nbsp; Working as a Full Stack Web Developer.
-- 🌱 &nbsp; Learning more about Frontend Frameworks and Backend Technologies.
+- 🌱 &nbsp; Learning more about Frontend and Backend Technologies.
 
 <h3>🛠 Tech Stack</h3>
 
